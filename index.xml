@@ -6,7 +6,29 @@
     <description>Recent content in DataWave: Collaborative Gravity Wave Research on The DataWave Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="http://datawaveproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PhD Position at Goethe Universität Frankfurt</title>
+      <link>http://datawaveproject.github.io/jobs/goethe_phd/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/jobs/goethe_phd/</guid>
+      <description>&lt;h2 id=&#34;advisor-prof-dr-ulrich-achatz&#34;&gt;Advisor: Prof. Dr. Ulrich Achatz&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://datawaveproject.github.io/pdfs/PhD_Ulrich.pdf&#34;&gt;PDF here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A 3-year PhD student is opening in the research group &lt;em&gt;Theory of Atmospheric Dynamics and Climate&lt;/em&gt; at the Institute of Atmospheric and Environmental Sciences of the &lt;a href=&#34;https://frankfurt.de/english/about-frankfurt&#34;&gt;Goethe University&lt;/a&gt; to be filled as soon as possible. The field of research shall be the theory of the nonlinear dynamics of atmospheric gravity waves and their efficient representation in models. The focus will be on mountain waves in the advanced parameterization framework MS-GWaM in the weather-forecast and climate code UA-ICON.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Post-Doc Position at Goethe Universität Frankfurt</title>
+      <link>http://datawaveproject.github.io/jobs/goethe_postdoc/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/jobs/goethe_postdoc/</guid>
+      <description>&lt;h2 id=&#34;advisor-prof-dr-ulrich-achatz&#34;&gt;Advisor: Prof. Dr. Ulrich Achatz&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://datawaveproject.github.io/pdfs/postdoc_Ulrich.pdf&#34;&gt;PDF here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A 2-year post doctoral position is opening in the research group &lt;em&gt;Theory of Atmospheric Dynamics and Climate&lt;/em&gt; at the Institute of Atmospheric and Environmental Sciences of the &lt;a href=&#34;https://frankfurt.de/english/about-frankfurt&#34;&gt;Goethe University&lt;/a&gt; to be filled as soon as possible. The field of research shall be the theory of the nonlinear dynamics of atmospheric gravity waves and their efficient representation in models. The focus will be on mountain waves in the advanced parameterization framework MS-GWaM in the weather-forecast and climate code UA-ICON.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Post-Doc Position at LMD/ENS (Paris) </title>
       <link>http://datawaveproject.github.io/jobs/parispostdoc/</link>
