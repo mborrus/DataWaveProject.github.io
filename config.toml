@@ -1,4 +1,4 @@
-baseURL = "http://datawaveproject.github.io/"
+baseURL = "http://mborrus.github.io/"
 languageCode = "en-us"
 title = "The DataWave Project"
 theme="ananke"
