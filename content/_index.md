@@ -1,5 +1,5 @@
 ---
-title: "DataWave: Collaborative Gravity Wave Research"
+title: "My new Website"
 featured_image: '/images/gravity_waves_big.jpg'
 description: "An international consortium working on improving our understanding and representation of gravity waves"
 ---
